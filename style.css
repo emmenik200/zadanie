@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color:rgb(124, 22, 22);
+    color: white ;
+    text-align: center;
+    padding: 5px;
+    width: 100%;
+}
+header h1{
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+}
+nav{
+    background-color: black;
+    color: wheat;
+    float: right;
+    margin: 0px;
+    width: 20%;
+    height: 750px;
+    margin-right: 0px;
+}
+nav a{
+    padding: 15px;
+    text-decoration: none;
+
+}
+a:link{
+    color:white !important;
+
+}
+a:visited{
+    color:fuchsia;
+}
+a:hover{
+    color: rgb(0, 60, 128);
+}
+section
+{
+    float: left;
+    background-color: rgb(255, 254, 254);
+    color:rgb(0, 0, 0);
+    width: 80%;
+    height: 750px;
+    
+}
+article{
+    padding: 10px;
+}
